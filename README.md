@@ -8,3 +8,4 @@ this project revolve on 4 experiment
 This Project using Dataset named "DREADDIT" which author is Elsbeth Turcan, Kathleen McKeown
 
 *some note in the code are in indonesian
+*this project need api from huggingface to make it reproduceable
