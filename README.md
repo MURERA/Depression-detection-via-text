@@ -6,3 +6,5 @@ this project revolve on 4 experiment
 4. Comparition of model performance between model CNN and MentalBERT(for classifier).
 
 This Project using Dataset named "DREADDIT" which author is Elsbeth Turcan, Kathleen McKeown
+
+*some note in the code are in indonesian
